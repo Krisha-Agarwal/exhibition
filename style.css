@@ -1,0 +1,97 @@
+.header img{
+    margin-left: 0px;
+}
+.header{
+    background-color: #ffe4b5;
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    border-color: teal;
+}
+.grid{
+    background-color: rgba(221, 160, 221, 0.671) ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: solid;
+    border-width: 10px;
+    border-color: tomato;
+}
+.button{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 1200px;
+    margin-left: 50px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: skyblue;
+    border: solid;
+    border-width: 4px;
+    border-color:aquamarine;
+}
+.info{
+    margin-left: 20px;
+}
+li{
+    color: rgb(49, 150, 175);
+}
+p,li{
+    text-align: left;
+    color: teal;
+}
+p{
+    border-bottom: 120px;
+    border-bottom: solid;
+    border-color: tomato;
+}
+h1{
+    color:blueviolet;
+}
+.grid h2{
+    color:coral;
+}
+.poem1{
+    margin-top: 20px;
+}
+.poem2{
+    margin-top: 20px;
+    margin-left: -20px;
+}
+.alli1{
+    margin-top: 50px;
+}
+.asso1{
+    margin-top: 50px;
+}
+.asso2{
+    margin-top: 70px;
+}
+.meta1{
+    margin-top: 50px;
+}
+.origami{
+    margin-top: 20px;
+    margin-bottom:20px;
+    margin-right: 180px;
+    margin-left: 40px;
+    background-color: skyblue;
+    border: solid;
+    border-width: 3px;
+    border-color: aquamarine;
+}
+.grid img{
+    border: solid;
+    border-width: 1px;
+    border-radius: 15%;
+    border-color: black;
+    margin-left: 100px;
+}
+.origami:hover{
+    transform: scale(1.05);
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color: white;
+}
